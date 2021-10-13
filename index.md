@@ -2,19 +2,19 @@
 layout: default
 ---
 
-"El futuro mostrará los resultados y juzgará a cada uno de acuerdo a sus logros." Nikola Tesla
+"La gente que realmente aprecia a los animales siempre pregunta sus nombres", Lilian Jackson Braun.
 
 # Bienvenido
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Este es el sitio oficial de la Asociación Mexicana del Perro Lobo. El proyecto surge por la necesidad de contar con ejemplares debidamente registrados por criaderos y dueños responsables, y ser la base para un "Pedigree" a nivel nacional.
 
-## Header 2
+## Misión
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## Visión
 
 ```js
 // Javascript code with syntax highlighting.
@@ -23,6 +23,7 @@ var fun = function lang(l) {
   return true;
 }
 ```
+## Valores
 
 ```ruby
 # Ruby code with syntax highlighting

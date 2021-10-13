@@ -9,28 +9,15 @@ layout: default
 Este es el sitio oficial de la Asociación Mexicana del Perro Lobo. El proyecto surge por la necesidad de contar con ejemplares debidamente registrados por criaderos y dueños responsables, y ser la base para un "Pedigree" a nivel nacional.
 
 ## Misión
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Nuestra misión es ...
 
 ## Visión
+Nos proyectamos a futuro como...
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 ## Valores
+Responsabilidad, Amabilidad, Respeto...
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+
 
 #### Header 4
 

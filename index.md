@@ -7,6 +7,7 @@ layout: default
 # Bienvenido
 
 Este es el sitio oficial de la Asociación Mexicana del Perro Lobo. El proyecto surge por la necesidad de contar con ejemplares debidamente registrados por criaderos y dueños responsables, y ser la base para un "Pedigree" a nivel nacional.
+* * *
 
 ## Misión
 Nuestra misión es ...

@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# Así es el fenotipo y genotipo de los perros lobo
-
-_yay333_
-
+# Fenotipo y Genotipo de los perros lobo.
+***
+Estas son las características principales de los perros lobo.
 [inicio](./)
+***

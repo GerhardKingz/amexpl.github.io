@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Así es el fenotipo de los Perros Lobo
+# Así es el fenotipo de los perros lobo
 
 _yay333_
 

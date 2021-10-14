@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Contáctanos
+# Contáctanos!
 ***
 Contáctanos para recibir mas información o ser parte de este registro nacional.
 [inicio](./)

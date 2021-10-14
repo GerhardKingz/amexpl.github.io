@@ -2,8 +2,7 @@
 layout: default
 ---
 
-# Servicio de Mantenimiento
-
+# Registra a tu ejemplar
 _yay_
 
 [inicio](./)

@@ -7,4 +7,5 @@ layout: default
 Estas son las características principales de los perros lobo.
 
 [inicio](./)
+
 ***

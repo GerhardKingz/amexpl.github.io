@@ -15,11 +15,11 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
+        <!--
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
+        -->
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
@@ -28,9 +28,9 @@
         
         <h2>Menú</h2>
         <p class="view"><a href="./p_registra.html">Registra a tu ejemplar</a></p>
-        <p class="view"><a href="./p_fenotipo.html">Fenotipo</a></p>
-        <p class="view"><a href="./p_genotipo.html">Genotipo</a></p>
-        <p class="view"><a href="./p_articulos.html">Artículos</a></p>
+        <p class="view"><a href="./p_criaderos.html">Fenotipo</a></p>
+        <p class="view"><a href="./p_fenoygenotipo.html">Genotipo</a></p>
+        <p class="view"><a href="./p_tienda.html">Artículos</a></p>
         <p class="view"><a href="./p_contacto.html">Contacto</a></p>
 
         {% if site.show_downloads %}

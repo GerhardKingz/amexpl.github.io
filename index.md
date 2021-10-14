@@ -21,9 +21,5 @@ Responsabilidad, Amabilidad, Respeto...
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Perro Lobo Prehispánico](https://nupec.com/wp-content/uploads/2019/01/pec.gif)
 * * *

@@ -11,13 +11,13 @@ Este es el sitio oficial de la Asociación Mexicana del Perro Lobo. El proyecto 
 * * *
 
 ## Misión
-Nuestra misión es ...
+Iniciar y mantener un registro genealógico, en una primera etapa a nivel nacional, de los ejemplares de híbridos de perro lobo, con la finalidad de mantener una calidad aceptable en cuanto a su genética y evitar posibles fraudes de "criadores" que no cuidan sus estándares de calidad.
 
 ## Visión
-Nos proyectamos a futuro como...
+Ser la asociación lider a nivel nacional donde poder registrar a los ejemplares mas representativos de esta hibridación, que viene existiendo desde tiempos prehispánicos, con fines religiosos-culturales.
 
 ## Valores
-Responsabilidad, Amabilidad, Respeto...
+Responsabilidad, Amabilidad, Respeto, Amistad, Fraternidad, Honor, Honradéz y Solidaridad.
 
 ### Small image
 

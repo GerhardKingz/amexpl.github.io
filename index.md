@@ -19,7 +19,5 @@ Ser la asociación lider a nivel nacional donde poder registrar a los ejemplares
 ## Valores
 Responsabilidad, Amabilidad, Respeto, Amistad, Fraternidad, Honor, Honradéz y Solidaridad.
 
-### Small image
-
 ![Perro Lobo Prehispánico](https://nupec.com/wp-content/uploads/2019/01/pec.gif)
 * * *

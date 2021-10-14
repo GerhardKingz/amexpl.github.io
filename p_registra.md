@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Registra a tu ejemplar
-_yay_
+# Registo de ejemplares
+***
+En esta sección podrás registrar a tus ejemplares
 
 [inicio](./)

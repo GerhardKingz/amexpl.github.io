@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Instalaciones
+# Artículos relacionados con el perro lobo
 
 _yay333_
 

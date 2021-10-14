@@ -2,8 +2,9 @@
 layout: default
 ---
 
-# Registo de ejemplares
+# Registo de ejemplares.
 ***
-En esta sección podrás registrar a tus ejemplares
+En esta sección podrás registrar a tus ejemplares.
 
 [inicio](./)
+***

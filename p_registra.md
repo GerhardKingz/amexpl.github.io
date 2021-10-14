@@ -7,4 +7,5 @@ layout: default
 En esta sección podrás registrar a tus ejemplares.
 
 [inicio](./)
+
 ***

@@ -14,12 +14,6 @@ Contáctanos para recibir mas información o ser parte de este proyecto nacional
   <input type="hidden" name="utf8" value="✓">
   <button type="submit">Enviar</button>
 </form>
-
-<form action="https://formkeep.com/f/692eb07e3526"
-   accept-charset="UTF-8"
-   enctype="multipart/form-data"
-   method="POST"></form>
-
   
 [inicio](./)
 

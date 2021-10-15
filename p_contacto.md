@@ -7,7 +7,6 @@ layout: default
 
 Contáctanos para recibir mas información o ser parte de este proyecto nacional.
   
-<script src='https://www.google.com/recaptcha/api.js' async defer></script>
 <form action="https://formkeep.com/f/692eb07e3526"
       accept-charset="UTF-8"
       enctype="multipart/form-data"

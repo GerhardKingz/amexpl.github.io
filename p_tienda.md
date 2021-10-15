@@ -4,7 +4,7 @@ layout: default
 
 # Tienda Oficial de AMexPL.
 ***
-[Seccion1](https://www.google.com) | [Seccion2](https://www.google.com) |[Seccion3](https://www.google.com) |[Seccion4](https://www.google.com) |
+[Seccion1](https://www.google.com) | [Seccion2](https://www.google.com) |[Seccion3](https://www.google.com) |[Seccion4](https://www.google.com) |[Seccion5](https://www.google.com) |[Seccion6](https://www.google.com) |
 
 En esta sección podrás adquirir tu registro impreso, así como souvenirs oficiales, hechos por manos mexicanas.
 

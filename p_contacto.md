@@ -18,7 +18,8 @@ Contáctanos para recibir mas información o ser parte de este proyecto nacional
 <form action="https://formkeep.com/f/692eb07e3526"
    accept-charset="UTF-8"
    enctype="multipart/form-data"
-   method="POST">
+   method="POST"></form>
+
   
 [inicio](./)
 

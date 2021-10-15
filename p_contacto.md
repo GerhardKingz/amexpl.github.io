@@ -4,6 +4,7 @@ layout: default
 
 # Contáctanos!
 ***
+
 Contáctanos para recibir mas información o ser parte de este proyecto nacional.
   
 <form accept-charset="UTF-8" action="https://formkeep.com/f/692eb07e3526"" method="POST">

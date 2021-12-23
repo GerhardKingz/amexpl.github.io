@@ -4,6 +4,20 @@ layout: default
 
 # Registo de ejemplares.
 ***
+<form action="ins_pers.php" method="post">
+Nombres:<br><input type="text" name="name"><br>
+Apellidos:<br><input type="text" name="lastname"><br>
+Contacto:<br><input type="text" name="contact"><br>
+Dirección:<br><input type="text" name="address"><br>
+<input type="submit">
+</form>
+
+<form action="ins_kennel.php" method="post">
+Nombre del Kennel:<br><input type="text" name="criadero"><br>
+Responsable ID:<br><input type="text" name="responsable"><br>
+<input type="submit">
+</form>
+
 <form action="ins_ejemplar.php" method="post">
 Nombre del Ejemplar:<br><input type="text" name="ejemplar"><br>
 Sexo del Ejemplar:<br>

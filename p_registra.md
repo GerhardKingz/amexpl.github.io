@@ -1,23 +1,23 @@
 ---
 layout: default
 ---
-
 # Registo de ejemplares.
 ***
+
 ## Primero Regístrate como Dueño Responsable (Anota tu ID que se te generará!)
 <form action="ins_pers.php" method="post">
 Nombres:<br><input type="text" name="name"><br>
 Apellidos:<br><input type="text" name="lastname"><br>
 Contacto:<br><input type="text" name="contact"><br>
 Dirección:<br><input type="text" name="address"><br>
-<input type="submit">
+<input type="submit"><br><br>
 </form>
 
 ## Una vez que te has registrado como Dueño Responsable, puedes registrar tu Kennel (deberás proporcionar tu Id obtenido en el paso anterior.)
 <form action="ins_kennel.php" method="post">
 Nombre del Kennel:<br><input type="text" name="criadero"><br>
 Responsable ID:<br><input type="text" name="responsable"><br>
-<input type="submit">
+<input type="submit"><br><br>
 </form>
 
 ## Ahora ya puedes registrar a uno o a varios de tus ejemplares (deberás proporcionar el Id del Kennel o el de Dueño Responsable generados en los pasos anteriores)

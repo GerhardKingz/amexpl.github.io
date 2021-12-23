@@ -29,8 +29,8 @@ Sexo del Ejemplar:<br>
 <input type="radio" id="Macho" name="sexo" value="Macho">
 <label for="Macho">Macho</label><br>
 Fecha de Nacimiento del Ejemplar:<br><input type="date" name="fnacim"><br>
-Kennel ID:<br><input type="number" name="kennelid"><br>
-Responsable ID:<br><input type="number" name="responsable"><br>
+Kennel ID:<br><input type="number" name="kennelid" default="-1"><br>
+Responsable ID:<br><input type="number" name="responsable" default="-1"><br>
 Foto del Ejemplar:<br> <input type="file" name="foto"><br>
 Video del Ejemplar:<br><input type="url" name="video"><br>
 <input type="submit">

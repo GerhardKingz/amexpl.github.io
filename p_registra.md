@@ -14,7 +14,7 @@ Dirección:<br><input type="text" name="address"><br>
 </form>
 
 ## Una vez que te has registrado como Dueño Responsable, puedes registrar tu Kennel (deberás proporcionar tu Id obtenido en el paso anterior.)
-<form action="ins_kennel.php" method="post">
+<form action="http://152.70.122.144/amexpl/ins_kennel.php" method="post">
 Nombre del Kennel:<br><input type="text" name="criadero"><br>
 Responsable ID:<br><input type="text" name="responsable"><br>
 <input type="submit"><br><br>

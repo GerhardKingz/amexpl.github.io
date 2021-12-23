@@ -5,7 +5,7 @@ layout: default
 ***
 
 ## Primero regístrate como Dueño Responsable (Anota tu ID que se te generará!)
-<form action="ins_pers.php" method="post">
+<form action="http://152.70.122.144/amexpl/ins_pers.php" method="post">
 Nombres:<br><input type="text" name="name"><br>
 Apellidos:<br><input type="text" name="lastname"><br>
 Contacto:<br><input type="text" name="contact"><br>
@@ -21,7 +21,7 @@ Responsable ID:<br><input type="text" name="responsable"><br>
 </form>
 
 ## Ahora ya puedes registrar a uno o a varios de tus ejemplares (deberás proporcionar el Id del Kennel o el de Dueño Responsable generados en los pasos anteriores)
-<form action="ins_ejemplar.php" method="post">
+<form action="http://152.70.122.144/amexpl/ins_ejemplar.php" method="post">
 Nombre del Ejemplar:<br><input type="text" name="ejemplar"><br>
 Sexo del Ejemplar:<br>
 <input type="radio" id="Hembra" name="sexo" value="Hembra">

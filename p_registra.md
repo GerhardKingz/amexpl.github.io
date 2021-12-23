@@ -29,6 +29,29 @@ Sexo del Ejemplar:<br>
 <input type="radio" id="Macho" name="sexo" value="Macho">
 <label for="Macho">Macho</label><br>
 Fecha de Nacimiento del Ejemplar:<br><input type="date" name="fnacim"><br>
+
+Porcentaje (Contenido de sangre de Lobo):<br>
+<input type="radio" id="LC" name="porcentaje" value="LC">
+<label for="LC">Bajo Contenido (LowContent) 1% - 50% </label><br>
+<input type="radio" id="MC" name="porcentaje" value="MC">
+<label for="MC">Medio Contenido (MidContent) 51% - 75% </label><br>
+<input type="radio" id="HC" name="porcentaje" value="HC">
+<label for="HC">Alto Contenido (HighContent) 76% - 99% </label><br>
+  
+Prueba de ADN:<br>
+<input type="radio" id="Embark" name="prueba" value="Embark">
+<label for="Embark">Embark</label><br>
+<input type="radio" id="EasyDNA" name="prueba" value="EasyDNA">
+<label for="EasyDNA">EasyDNA</label><br>
+<input type="radio" id="MyHeritage" name="prueba" value="MyHeritage">
+<label for="MyHeritage">MyHeritage</label><br>
+<input type="radio" id="WisdomPanel" name="prueba" value="WisdomPanel">
+<label for="WisdomPanel">WisdomPanel</label><br>
+Otra:<br><input type="text" name="prueba"><br>
+
+Número de Registro (en caso de contar con Prueba de ADN):<br><input type="text" name="regprueba"><br>
+Padre de tu ejemplar (Escribe el ID en caso de contar con él):<br><input type="number" name="fatherid" value="-1"><br>
+Madre de tu ejemplar (Escribe el ID en caso de contar con él):<br><input type="number" name="motherid" value="-1"><br>
 Kennel ID:<br><input type="number" name="kennelid" value="-1"><br>
 Responsable ID:<br><input type="number" name="responsable" value="-1"><br>
 Foto del Ejemplar:<br> <input type="file" name="foto"><br>

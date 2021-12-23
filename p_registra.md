@@ -4,7 +4,7 @@ layout: default
 # Registo de ejemplares.
 ***
 
-## Primero registrate como Dueño Responsable (Anota tu ID que se te generará!)
+## Primero regístrate como Dueño Responsable (Anota tu ID que se te generará!)
 <form action="ins_pers.php" method="post">
 Nombres:<br><input type="text" name="name"><br>
 Apellidos:<br><input type="text" name="lastname"><br>

@@ -47,7 +47,8 @@ Prueba de ADN:<br>
 <label for="MyHeritage">MyHeritage</label><br>
 <input type="radio" id="WisdomPanel" name="prueba" value="WisdomPanel">
 <label for="WisdomPanel">WisdomPanel</label><br>
-Otra:<br><input type="text" name="prueba"><br>
+<input type="radio" id="Otra" name="prueba" value="Otra">
+<label for="Otra">Otra</label><br>
 
 Número de Registro (en caso de contar con Prueba de ADN):<br><input type="text" name="regprueba" value="0"><br>
 Padre (Escribe el ID en caso de contar con él):<br><input type="number" name="fatherid" value="-1"><br>

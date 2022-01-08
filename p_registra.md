@@ -22,12 +22,12 @@ Responsable ID:<br><input type="text" name="responsable"><br>
 
 ### Ahora ya puedes registrar a uno o a varios de tus ejemplares (WD - WolfDog)(deberás proporcionar el Id del Kennel o el de Dueño Responsable generados en los pasos anteriores)
 <form action="http://152.70.122.144/amexpl/ins_ejemplar.php" method="post" target="_blank">
-Nombre de tu WD:<br><input type="text" name="ejemplar"><br>
+Nombre de tu WD:<br><input type="text" name="ejemplar"><br><br>
 Sexo detu WD:<br>
 <input type="radio" id="Hembra" name="sexo" value="Hembra">
 <label for="Hembra">Hembra</label><br>
 <input type="radio" id="Macho" name="sexo" value="Macho">
-<label for="Macho">Macho</label><br>
+<label for="Macho">Macho</label><br><br>
 Fecha de Nacimiento:<br><input type="date" name="fnacim"><br><br>
 
 Porcentaje (Contenido de sangre de Lobo):<br>
@@ -38,7 +38,7 @@ Porcentaje (Contenido de sangre de Lobo):<br>
 <input type="radio" id="UMC" name="porcentaje" value="UMC">
 <label for="UMC">Medio Alto Contenido (UpperMid) 75% - 84% </label><br>
 <input type="radio" id="HC" name="porcentaje" value="HC">
-<label for="HC">Alto Contenido (HighContent) 85% - 99% </label><br>
+<label for="HC">Alto Contenido (HighContent) 85% - 99% </label><br><br>
   
 Prueba de ADN:<br>
 <input type="radio" id="Embark" name="prueba" value="Embark">
@@ -50,7 +50,7 @@ Prueba de ADN:<br>
 <input type="radio" id="WisdomPanel" name="prueba" value="WisdomPanel">
 <label for="WisdomPanel">WisdomPanel</label><br>
 <input type="radio" id="Otra" name="prueba" value="Otra">
-<label for="Otra">Otra</label><br>
+<label for="Otra">Otra</label><br><br>
 
 Número de Registro (en caso de contar con Prueba de ADN):<br><input type="text" name="regprueba" value="0"><br>
 Padre (Escribe el ID en caso de contar con él):<br><input type="number" name="fatherid" value="-1"><br>

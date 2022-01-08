@@ -28,15 +28,17 @@ Sexo detu WD:<br>
 <label for="Hembra">Hembra</label><br>
 <input type="radio" id="Macho" name="sexo" value="Macho">
 <label for="Macho">Macho</label><br>
-Fecha de Nacimiento:<br><input type="date" name="fnacim"><br>
+Fecha de Nacimiento:<br><input type="date" name="fnacim"><br><br>
 
 Porcentaje (Contenido de sangre de Lobo):<br>
 <input type="radio" id="LC" name="porcentaje" value="LC">
-<label for="LC">Bajo Contenido (LowContent) 1% - 50% </label><br>
+<label for="LC">Bajo Contenido (LowContent) 15% - 49% </label><br>
 <input type="radio" id="MC" name="porcentaje" value="MC">
-<label for="MC">Medio Contenido (MidContent) 51% - 75% </label><br>
+<label for="MC">Medio Contenido (MidContent) 50% - 74% </label><br>
+<input type="radio" id="UMC" name="porcentaje" value="UMC">
+<label for="UMC">Medio Alto Contenido (UpperMid) 75% - 84% </label><br>
 <input type="radio" id="HC" name="porcentaje" value="HC">
-<label for="HC">Alto Contenido (HighContent) 76% - 99% </label><br>
+<label for="HC">Alto Contenido (HighContent) 85% - 99% </label><br>
   
 Prueba de ADN:<br>
 <input type="radio" id="Embark" name="prueba" value="Embark">

@@ -10,7 +10,7 @@ Estas son las características principales de los perros lobo (Aporte de Jessica
 |:-------------|:--------------------|:-----------|
 | LC | Bajo Contenido (Low Content)  | 15% a 49%   |
 | MC | Medio Contenido (Mid Content) | 50% a 74%  |
-| MC | Medio Alto Contenido (Upper Mid Content) | 75% a 84%  |
+| UMC | Medio Alto Contenido (Upper Mid Content) | 75% a 84%  |
 | HC | Alto Contenido (High Content) | 85% a 99%  |
 
 [inicio](./)

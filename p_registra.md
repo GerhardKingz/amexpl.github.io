@@ -23,7 +23,7 @@ Responsable ID:<br><input type="text" name="responsable"><br>
 ### Ahora ya puedes registrar a uno o a varios de tus ejemplares (WD - WolfDog)(deberás proporcionar el Id del Kennel o el de Dueño Responsable generados en los pasos anteriores)
 <form action="http://152.70.122.144/amexpl/ins_ejemplar.php" method="post" target="_blank">
 Nombre de tu WD:<br><input type="text" name="ejemplar"><br><br>
-Sexo detu WD:<br>
+Sexo de tu WD:<br>
 <input type="radio" id="Hembra" name="sexo" value="Hembra">
 <label for="Hembra">Hembra</label><br>
 <input type="radio" id="Macho" name="sexo" value="Macho">
@@ -53,10 +53,10 @@ Prueba de ADN:<br>
 <label for="Otra">Otra</label><br><br>
 
 Número de Registro (en caso de contar con Prueba de ADN):<br><input type="text" name="regprueba" value="0"><br>
-Padre (Escribe el ID en caso de contar con él):<br><input type="number" name="fatherid" value="-1"><br>
-Madre (Escribe el ID en caso de contar con él):<br><input type="number" name="motherid" value="-1"><br>
-Kennel ID:<br><input type="number" name="kennelid" value="-1"><br>
-Responsable ID:<br><input type="number" name="responsable" value="-1"><br>
+Padre (Escribe el ID en caso de contar con él, si lo desconoces, deja el 1):<br><input type="number" name="fatherid" value="1"><br>
+Madre (Escribe el ID en caso de contar con él, si lo desconoces, deja el 1):<br><input type="number" name="motherid" value="1"><br>
+Kennel ID:<br><input type="number" name="kennelid" value="1"><br>
+Responsable ID:<br><input type="number" name="responsable" value="1"><br>
 Foto del Ejemplar:<br> <input type="file" name="foto"><br>
 Video del Ejemplar:<br><input type="url" name="video"><br>
 <input type="submit">

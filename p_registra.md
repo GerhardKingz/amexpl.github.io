@@ -55,8 +55,8 @@ Prueba de ADN:<br>
 Número de Registro (en caso de contar con Prueba de ADN):<br><input type="text" name="regprueba" value="0"><br>
 Padre (Escribe el ID en caso de contar con él, si lo desconoces, deja el 1):<br><input type="number" name="fatherid" value="1"><br>
 Madre (Escribe el ID en caso de contar con él, si lo desconoces, deja el 1):<br><input type="number" name="motherid" value="1"><br>
-Kennel ID:<br><input type="number" name="kennelid" value="1"><br>
-Responsable ID:<br><input type="number" name="responsable" value="1"><br>
+Kennel ID (Escribe el ID en caso de contar con él, si lo desconoces, deja el 1):<br><input type="number" name="kennelid" value="1"><br>
+Responsable ID (Tu número de registro como Dueño Responsable):<br><input type="number" name="responsable"><br>
 Foto del Ejemplar:<br> <input type="file" name="foto"><br>
 Video del Ejemplar:<br><input type="url" name="video"><br>
 <input type="submit">

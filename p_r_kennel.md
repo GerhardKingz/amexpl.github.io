@@ -14,7 +14,7 @@ Responsable ID:<br><input type="text" name="responsable"><br>
 
 ### Buscar Criadero
 <form action="http://152.70.122.144/amexpl/bus_kennel.php" method="post" target="_blank">
-Registro del Criadero:<br><input type="text" name="criadero"><br>
+Registro (ID) del Criadero:<br><input type="number" name="kennel"><br>
 <input type="submit"><br><br>
 </form>
 [inicio](./)

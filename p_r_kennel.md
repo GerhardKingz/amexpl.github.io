@@ -11,6 +11,12 @@ Nombre del Kennel:<br><input type="text" name="criadero"><br>
 Responsable ID:<br><input type="text" name="responsable"><br>
 <input type="submit"><br><br>
 </form>
+
+###Buscar Ejemplar###
+<form action="http://152.70.122.144/amexpl/bus_ejemplar.php" method="post" target="_blank">
+Registro del Ejemplar:<br><input type="text" name="reg"><br>
+<input type="submit"><br><br>
+</form>
 [inicio](./)
 
 ***

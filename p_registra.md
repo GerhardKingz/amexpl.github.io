@@ -3,9 +3,7 @@ layout: default
 ---
 # Registro de Ejemplares, Dueños Responsables y Criaderos.
 ***
-[Inicio Registro](./p_registra.md) | [Dueños Responsables](./p_r_duenos.md) | [Kennel](./p_r_kennel.md) |[Ejemplares](./p_r_ejemplares.md) 
-[Registra Duenos Responsables](./p_r_duenos.md) | [Registra Criaderos](./p_r_criaderos.md) |[Registra Ejemplares](./p_r_ejemplares.md) 
-
+[Inicio Registro](./p_registra.md) | [Dueños Responsables](./p_r_duenos.md) | [Kennel](./p_r_kennel.md) |[Ejemplares](./p_r_ejemplares.md) |
 
 ### Primero regístrate como Dueño Responsable (Anota tu ID que se te generará!)
 <form action="http://152.70.122.144/amexpl/ins_pers.php" method="post" target="_blank">

@@ -46,6 +46,13 @@ Foto del Ejemplar:<br> <input type="file" name="foto"><br>
 Video del Ejemplar:<br><input type="url" name="video"><br>
 <input type="submit">
 </form>
+
+### Buscar Ejemplar
+<form action="http://152.70.122.144/amexpl/bus_pet.php" method="post" target="_blank">
+Registro del Ejemplar:<br><input type="text" name="pet"><br>
+<input type="submit"><br><br>
+</form>
+
 [inicio](./)
 
 ***

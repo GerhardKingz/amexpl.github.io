@@ -44,7 +44,7 @@ Kennel ID (Escribe el ID en caso de contar con él, si lo desconoces, deja el 1)
 Responsable ID (Tu número de registro como Dueño Responsable):<br><input type="number" name="responsable"><br>
 Foto del Ejemplar:<br> <input type="file" name="foto"><br>
 Video del Ejemplar:<br><input type="url" name="video"><br>
-<input type="submit">
+<input type="submit"><br>
 </form>
 
 ### Buscar Ejemplar

@@ -3,7 +3,7 @@ layout: default
 ---
 # Registro de Ejemplares, Dueños Responsables y Criaderos.
 ***
-[Inicio Registro](./p_registra.md) | [Dueños Responsables](./p_r_duenos.md) | [Kennel](./p_r_kennel.md) |[Ejemplares](./p_r_ejemplares.md) |
+[Inicio Registro](./p_registra.md) | [Dueños Responsables](./p_r_duenos.md) | [Kennel](./p_r_kennel.md) | [Ejemplares](./p_r_ejemplares.md) |
 
 ### Ahora ya puedes registrar a uno o a varios de tus ejemplares (WD - WolfDog)(deberás proporcionar el Id del Kennel o el de Dueño Responsable generados en los pasos anteriores)
 <form action="http://152.70.122.144/amexpl/ins_ejemplar.php" method="post" target="_blank">
